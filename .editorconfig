@@ -3,7 +3,7 @@ indent_style = space
 end_of_line = LF
 charset=utf-8
 
-[*.java]
+[*.php]
 indent_size = 4
 
 [*.{xml,yml}]
