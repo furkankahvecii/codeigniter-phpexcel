@@ -37,3 +37,4 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $autoload['libraries'] = array('database','session','form_validation','excel');
 ?>
 ``` 
+### **Your PHP version must be less than 7.2 to use the phpexcel library. If your PHP version is higher than 7.2, please try <a href="https://phpspreadsheet.readthedocs.io/en/latest/">PhpSpreadsheet.</a>
